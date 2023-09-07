@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emanuel</h1>
+<h1 align="center">Hi 👋, I'm Hikari-Umiko</h1>
 <h3 align="center">me apasiona la programación y el dibujo</h3>
 
 <h3 align="left">Connect with me:</h3>
